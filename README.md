@@ -2,22 +2,23 @@
 
  ```python
   class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
+    user = 'Ivan Vivas'
+	current_edu = "La Salle Bajio University"
+    currently_learning = "Machine Learning"
     fun_fact = "I hate Chillies"
 	hobbies = [
-				'Music',
-                         'Chilling',
+				'A Song Of Ice And Fire',
+                		'Baldurs Gate 3 and Dungeons And Dragons',
 			 	'Gaming',
-				'Sci-Fi Movies'
+				'Sports, Soccer, FC Barcelona',
+				'Sports Analytics'
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Irapuato_Mexico()
 	
 	def Ambitions():
-		BecomeSoftwareEngineer()
+		BecomeASportsDataScientist()
 		FinishMyProjects()
 	
  ```
