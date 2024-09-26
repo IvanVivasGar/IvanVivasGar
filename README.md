@@ -1,5 +1,3 @@
-## Who am I?
-
  ```python
   class WhoAmI:
     user = 'Ivan Vivas'
