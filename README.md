@@ -3,7 +3,7 @@
     user = 'Ivan Vivas'
 	current_edu = "La Salle Bajio University"
     currently_learning = "Machine Learning"
-    fun_fact = "I hate Chillies"
+    fun_fact = "I do not like cooked tomatoes"
 	hobbies = [
 				'A Song Of Ice And Fire',
                 		'Baldurs Gate 3 and Dungeons And Dragons',
